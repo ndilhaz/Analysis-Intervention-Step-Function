@@ -1,4 +1,6 @@
 # Analysis-Intervention-Step-Function
-This is my final project in university. In this repository, we talk about how can we predict the time series data while in the data there is an intervention that effects on several time spans.
-I'm using BBRI Stock's price data that was affected by the COVID-19 pandemic. The data timeline is starting in 2017 and ending in 2021. When the covid came in 2020 it is already effected the data by pandemic.
-So I predicted the data in 2022 by the data time series from 2017 2021. The prediction that we got is the data is about to rebound in 2021 and will be normally again in 2022.
+This repository presents the culmination of my university studies – a final project focused on predicting time series data with interventions. Leveraging BBRI Stock's price data, heavily impacted by the COVID-19 pandemic, the project aims to forecast future trends. The dataset spans from 2017 to 2021, capturing the pre-pandemic and pandemic periods. Utilizing Intervention Analysis with a Step Function in R Studio, the model extrapolates into 2022.
+
+The findings highlight the repercussions of the COVID-19 pandemic on BBRI Stock's performance, and the predictions suggest a rebound in 2021, with a return to normalcy expected in 2022. This work contributes to the understanding of time series data in the presence of interventions, offering insights into the dynamics of financial markets during significant events.
+
+The dataset's origins, key features, and the methodology employed in the predictions are detailed within the repository. This project provides valuable insights for researchers, students, and practitioners interested in time series analysis and financial forecasting. Additionally, by exploring the impact of external factors, such as the pandemic, on stock prices, the project sheds light on the challenges and opportunities for predictive modeling in dynamic and unpredictable environments.
